@@ -62,18 +62,8 @@ Smart-IoT-Environmental-Monitoring-ESP32/
 The project is simulated using **Wokwi**, allowing the ESP32, sensors, and other components to be tested virtually.
 
 🔗 **Wokwi Simulation:**
-Paste your Wokwi project link here.
+https://wokwi.com/projects/460083204664768513
 
-## 📷 Project Images
-
-Add project screenshots and circuit images in the `images/` folder.
-
-Example:
-
-* Circuit diagram
-* Wokwi simulation
-* Sensor output
-* Serial monitor output
 
 ## 🎯 Applications
 
