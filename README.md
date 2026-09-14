@@ -52,7 +52,7 @@ Smart-IoT-Environmental-Monitoring-ESP32/
 │   └── main.ino
 │
 └── images/
-    ├── circuit.png
+    ├── project_overview.png
     ├── simulation.png
     └── output.png
 ```
